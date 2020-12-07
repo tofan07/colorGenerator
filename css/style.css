@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.button {
+  padding: 30px 40px;
+  font-size: 3rem;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+}
+
+.title {
+  font-size: 4rem;
+  font-family: sans-serif;
+  margin-bottom: 50px;
+  color: #fff;
+}
